@@ -1,0 +1,30 @@
+id,name,party,sector,country
+500,Folge 500,,,
+501,Folge 501,,,
+502,Folge 502,,,
+503,Folge 503,,,
+CDU,Christlich Demokratische Union,,Partei,Deutschland
+SPD,Sozialdemokratische Partei Deutschlands,,Partei,Deutschland
+Linke,Die Linke,,Partei,Deutschland
+Grünen,Bündnis 90/Die Grünen,,Partei,Deutschland
+FDP,Freie Demokratische Partei,,Partei,Deutschland
+parteilos,keine Zugehörigkeit zu einer Partei,,Partei,
+UvdL,Ursula von der Leyen,CDU,Politik,Deutschland
+LK,Lars Klingbeil,SPD,Politik,Deutschland
+NR,Norbert Röttgen,CDU,Politik,Deutschland
+SW,Sarah Wagenknecht,Linke,Politik,Deutschland
+CS,Constanze Stellzenmüller,,Justiz,Deutschland
+CL,Christian Lindner,FDP,Politik,Deutschland
+KS,Karl Schlögel,,Historie,Deutschland
+LM,Ljudmyla Melnyk,,Medien,Ukraine
+KD,Kristina Dunz,,Medien,Deutschland
+EL,Eglis Levits,,Politik,Lettland
+AB,Annalena Baerbock,Grünen,Politik,Deutschland
+FT,Frans Timmermanns,,Politik,Niederlande
+AM,Andrij Melnyk,,Politik,Ukraine
+AGL,Alexander Graf Lambsdorff,FDP,Politik,Deutschland
+ER,Egon Ramms,,Bundeswehr,Deutschland
+RH,Robert Habeck,Grünen,Politik,Deutschland
+CM,Claudia Major,,Wissenschaft,Deutschland
+KP,Katja Petrowskaja,,Medien,Ukraine
+RK,Roderich Kiesewetter,CDU,Politik,Deutschland
