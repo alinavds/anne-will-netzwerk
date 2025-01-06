@@ -1,0 +1,30 @@
+id;name;party;sector;country
+500;Folge 500;NA;NA;NA
+501;Folge 501;NA;NA;NA
+502;Folge 502;NA;NA;NA
+503;Folge 503;NA;NA;NA
+CDU;Christlich Demokratische Union;NA;Partei;Deutschland
+SPD;Sozialdemokratische Partei Deutschlands;NA;Partei;Deutschland
+Linke;Die Linke;NA;Partei;Deutschland
+Grünen;Bündnis 90/Die Grünen;NA;Partei;Deutschland
+FDP;Freie Demokratische Partei;NA;Partei;Deutschland
+parteilos;keine Zugehörigkeit zu einer Partei;NA;Partei;NA
+UvdL;Ursula von der Leyen;CDU;Politik;Deutschland
+LK;Lars Klingbeil;SPD;Politik;Deutschland
+NR;Norbert Röttgen;CDU;Politik;Deutschland
+SW;Sarah Wagenknecht;Linke;Politik;Deutschland
+CS;Constanze Stellzenmüller;NA;Justiz;Deutschland
+CL;Christian Lindner;FDP;Politik;Deutschland
+KS;Karl Schlögel;NA;Historie;Deutschland
+LM;Ljudmyla Melnyk;NA;Medien;Ukraine
+KD;Kristina Dunz;NA;Medien;Deutschland
+EL;Eglis Levits;NA;Politik;Lettland
+AB;Annalena Baerbock;Grünen;Politik;Deutschland
+FT;Frans Timmermanns;NA;Politik;Niederlande
+AM;Andrij Melnyk;NA;Politik;Ukraine
+AGL;Alexander Graf Lambsdorff;FDP;Politik;Deutschland
+ER;Egon Ramms;NA;Bundeswehr;Deutschland
+RH;Robert Habeck;Grünen;Politik;Deutschland
+CM;Claudia Major;NA;Wissenschaft;Deutschland
+KP;Katja Petrowskaja;NA;Medien;Ukraine
+RK;Roderich Kiesewetter;CDU;Politik;Deutschland
